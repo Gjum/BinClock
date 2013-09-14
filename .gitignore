@@ -1,0 +1,14 @@
+*.o
+*.exe
+
+bin/
+debug/
+obj/
+
+*.sh
+
+# CodeBlocks
+*.cbp
+*.depend
+*.layout
+
